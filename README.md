@@ -56,7 +56,7 @@
 ---
 
 ### 🌐 ผลงานและโปรเจกต์
-- 🌟 **เว็บไซต์ส่วนตัวฉบับเริ่มต้น** — [Arnat-nu.github.io]([https://Arnat-nu.github.io](https://arnat-nu.github.io/Arnat-nu/))
+- 🌟 **เว็บไซต์ส่วนตัวฉบับเริ่มต้น** — [Arnat-nu.github.io](https://arnat-nu.github.io/Arnat-nu/))
 - 📌 *ยังอยู่ช่วงเริ่มต้นเส้นทางวิศวะคอมฯ กำลังทยอยสะสมโปรเจกต์ทีละชิ้นครับ!*
 
 ---
